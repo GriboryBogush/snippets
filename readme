@@ -1,18 +1,19 @@
 Repo for various small snippets not warranting their own
-projects. Also a good playground for learning vim.
-Mac/linux will do fine. For windows it's best to use mingw terminal.
+projects.
+Also a good playground for learning vim.
+Mac/linux terminals will do fine. For windows it's best to use mingw terminal.
 
-Compiled by hand using c/c++ compilers like so:
+Compiled by hand using c/c++ compilers:
 `c++ build/[program_name] -o [source_file_name]`
-and then run like so:
-`./build/[program_name]
+and then run:
+`./build/[program_name]`
 
 Reasons: IDE's tend to eat too much memory and take forever to start on my quite old hardware
 
 TOOD:
 - compile and run an assembly program with nasm + proper terminal output
-- learn how to use gnu debugger from cmd
+- learn how to use gnu debugger from terminal
 - learn basic single file vim commands
 - learn basic multifile vim commands
 - learn how to link 3-rd party libraries through bash
-- look into build tools like cmake to simplify the work (and fun!) from bash termianl
+- look into build tools like cmake to simplify the work (and fun!) from termianl
