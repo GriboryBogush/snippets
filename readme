@@ -1,5 +1,7 @@
 Repo for various small snippets not warranting their own
 projects.
+Used for keeping snipets of drills/exercise of mine
+while reading "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
 Also a good playground for learning vim.
 Mac/linux terminals will do fine. For windows it's best to use mingw terminal.
 
